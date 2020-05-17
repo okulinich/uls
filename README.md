@@ -1,7 +1,7 @@
 # uls
 This is implementation of system utility ls with some flags for Unix.
 
-![usage screenshot](https://github.com/okulinich/uls/blob/master/ush_usage.png?raw=true)
+![usage screenshot](https://github.com/okulinich/uls/blob/master/uls_usage.png?raw=true)
 
 You need clang compiler to be installed to compile this 
 project, or you can change default compiler in Makefile.
